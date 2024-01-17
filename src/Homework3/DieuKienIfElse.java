@@ -18,14 +18,11 @@ public class DieuKienIfElse {
     }
     public static void main(String[] args) {
 
-        int n = 50;
-        GiaTri(n);
+        DieuKienIfElse.GiaTri(50);
 
-        int n1 = 200;
-        GiaTri(n1);
+        DieuKienIfElse.GiaTri(200);
 
-        int n3 = 100;
-        GiaTri(n3);
+        DieuKienIfElse.GiaTri(100);
     }
 
 }
